@@ -32,7 +32,7 @@ HEROKU_API_KEY = getenv("HEROKU_API_KEY")
 
 UPSTREAM_REPO = getenv(
     "UPSTREAM_REPO",
-    "https://github.com/godfatherlegend/LEGENDMUSIC2-1",
+    "https://github.com/Sumitmeena12/LEGENDMUSIC2-1",
 )
 UPSTREAM_BRANCH = getenv("UPSTREAM_BRANCH", "master")
 GIT_TOKEN = getenv(
@@ -81,7 +81,7 @@ START_IMG_URL = getenv(
     "START_IMG_URL", "https://telegra.ph/file/4027fb094cde308dc9eb1.jpg"
 )
 PING_IMG_URL = getenv(
-    "PING_IMG_URL", "https://telegra.ph/file/195c462935d1c72b74724.jpg"
+    "PING_IMG_URL", "https://telegra.ph/file/4027fb094cde308dc9eb1.jpg"
 )
 PLAYLIST_IMG_URL = "https://te.legra.ph/file/4ec5ae4381dffb039b4ef.jpg"
 STATS_IMG_URL = "https://te.legra.ph/file/e906c2def5afe8a9b9120.jpg"
